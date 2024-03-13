@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 using namespace std;
-//주석이요
+//주석이요 추가
 struct Node {
 	int e;
 	Node* next;
